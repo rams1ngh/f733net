@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @f733net
+- 👋 Hi, I’m @rams1ngh
 - 👀 I’m interested in elctroncs, robotics, AI, and weekend projects 
 - 🌱 I’m currently learning Python, JAVA
 - 💞️ I’m looking to collaborate on Web dev and weekend projects
